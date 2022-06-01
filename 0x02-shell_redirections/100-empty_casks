@@ -1,4 +1,7 @@
 #!/bin/bash
 find . -empty -printf "%f\n"
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> d70de672d1dc1805a96d6a363a51db2d564bbb8a
